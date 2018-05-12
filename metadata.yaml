@@ -1,0 +1,33 @@
+_repo: Methods-of-Authors_32328
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32328-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Erichsen, Hugo
+    birthdate: 1860
+    deathdate: 1944
+    gutenberg_agent_id: '35795'
+    url: http://www.gutenberg.org/2009/agents/35795
+description: ''
+gutenberg_issued: '2010-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors'
+- !lcc 'PN'
+- !lcsh 'Authorship'
+tableOfContents: Eccentricities in composition -- Care in literary production -- Speed
+  in writing -- Influence upon writers of time and place -- Writing under difficulties
+  -- Aids to inspiration; Favorite habits of work -- Goethe, Dickens, Schiller, and
+  Scott -- Burning midnight oil -- Literary partnership -- Anonymity in authorship
+  -- System in novel writing -- Traits of musical composers -- The hygiene of writing
+  -- A humorist's regimen.
+title: Methods of Authors
+url: http://www.gutenberg.org/ebooks/32328
